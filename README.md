@@ -1,1 +1,1 @@
-download: https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.203/dotnet-sdk-10.0.203-win-x64.exe
+download: https://github.com/2dust/v2rayNG/releases/download/2.0.18/v2rayNG_2.0.18_arm64-v8a.apk
